@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395411739292",
+    "project_id": "medinil-cbec8",
+    "storage_bucket": "medinil-cbec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395411739292:android:5b90f72c33f83a3dbfd359",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_last"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395411739292-jqn44t9s89cj57onhq1cqb8mcaorppsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNmF7fIkGsNQS0byOqlhx4wRbQezH7Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395411739292-jqn44t9s89cj57onhq1cqb8mcaorppsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
